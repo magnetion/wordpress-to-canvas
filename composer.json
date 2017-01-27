@@ -1,0 +1,14 @@
+{
+  "name": "magnetion/wordpress-to-canvas",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "classmap": [
+
+    ],
+    "psr-4": {
+      "Magnetion\\WordpressToCanvas\\": "src/"
+    }
+  }
+}
